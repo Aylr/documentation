@@ -4,3 +4,4 @@ __pycache__
 jekyll/assets/local_path_fix.txt
 jekyll/_site/
 _site/
+.vscode
